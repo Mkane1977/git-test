@@ -1,1 +1,2 @@
 My first Git practice
+Today I learned git add and git commit
